@@ -1,0 +1,5 @@
+Devops integrates development team and operation team to make sure they are in the same standards to make sure they have the same information.
+
+Devops manages end to end engineering processes whereas Agile is to manage complex projects. Agile refers to its continous interative approach which focuses on collaboration, customer feedback and rapid or small releases.
+
+Agile differs from the waterfall model mainly in the kind of sequencing of work flow. Agile is iterative in its approach but waterfall model is linear. 
