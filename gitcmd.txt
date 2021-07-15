@@ -20,4 +20,4 @@ git push --> to push the branch upto the remote origin
 
 git pull or fetch --> to fetch the repo to your local working directory 
 
-
+git rm --> to remove the existing file from the local repo
