@@ -1,0 +1,17 @@
+cd /home --> enter to directory '/ home'
+
+cd .. --> go back one level
+
+pwd --> show the path of work directory
+
+ls --> view files of directory
+
+mkdir dir1 --> create a directory called 'dir1'
+
+rm -f file1 --> delete file called 'file1'
+
+rmdir dir1 --> delete directory called 'dir1'
+
+find / -name file1 --> search file and directory into root filesystem from '/'
+
+
