@@ -1,0 +1,39 @@
+
+Date created : 26.07.2021
+
+Date updated : 26.07.2021
+
+Author : Surya Datla, Rajeev Donkada
+
+git config --global user.name "Test"
+
+git config --global user.email "mailid@mail.com"
+
+git init --> to initialize git into local repo
+
+git add --> to add the required file into staging area
+
+git commit --> to commit or save the changes
+
+git status --> to check the state of the working directory and the staging area
+
+git clone --> to copy the github repo into desired local repo
+
+git branch --> to check the branches in the repo
+
+git checkout -->to change the branch
+
+git diff --> to see differences between the working directory and the staging area
+
+git log --> to refer earlier versions of project
+
+git push --> to push the branch upto the remote origin
+
+git pull or fetch --> to fetch the repo to your local working directory 
+
+git rm --> to remove the existing file from the local repo
+
+git mv "oldfilename" "newfilename" --> to rename the file name we use this command
+
+
+
