@@ -1,0 +1,13 @@
+pwd - show current working directory
+echo - linux version of print
+clear - clears the screen
+cd -  change directory
+ls - list directory
+grep - search a string or a word in a file
+sort - to sort 
+mv - move
+cp - copy
+cp file1 file2 - copy contents of file1 to file2
+rm - remove file
+mkdir - create new directory
+rmdir - remove directory

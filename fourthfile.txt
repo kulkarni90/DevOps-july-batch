@@ -1,0 +1,10 @@
+1.git config --global user.name"username" (to linkup github(server) with local git( )
+2.git config -- global user.mail "mail"(to link with mail)
+3.git clone   -> To clone a repository into new directory.
+4.git init    -> Create an empty Git repository or reinitialize an existing one.
+5.git add     -> Add file contents to the index.
+6.git add.    -> Add all files contents to the index
+7.git branch  -> Lists branches present in repository.
+8.git branch -a -> Lists all branches in remote repository.
+9.git branch -d -> Delets specified branch.
+10.git-show-branch -> Show branches and their commits.
