@@ -1,0 +1,15 @@
+Scrum is one of the most popular agile management framework.It creates products in adaptive and iterative manner. These short iteratives or cycles are called sprints. The product does not depend on a final feedback but constantly delivers by reviewing and adopting along the way. 
+
+Scrum team consists of 
+- Product owner(responsible for the work which is supposed to be completed 
+- Scrum master(responsible for helping team members follow scrum theories,rules and practices) 
+- Developers(people working to deliver the projects).
+
+Artifacts are the records which have the project details. 
+
+Every sprint has four stages
+
+- Sprint planning
+- Sprint
+- Sprint review
+- Sprint Retrospective
