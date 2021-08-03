@@ -1,0 +1,6 @@
+Git is a fast, scalable, distributed version control system with an unusually rich 'COMMAND' set that provides both high-level operations and full access to internals.A command is an instruction given by a user telling a 'TERMINAL' to do something, such a run a single program or a group of linked programs. Commands are generally issued by typing them in at the command li    ne (i.e.,the all-text display mode)and then pressing the ENTER key, which passes them to the 'SHELL'.Below are some basic commands with discription which are used in git:
+1.git config --global user.name"username" (to linkup github(server) with local git( )
+2.git config -- global user.mail "mail"(to link with mail)
+3.git clone   -> To clone a repository into new directory.
+4.git init    -> Create an empty Git repository or reinitialize an existing one.
+5.git add     -> Add file contents to the index.
